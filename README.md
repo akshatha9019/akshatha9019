@@ -1,8 +1,8 @@
-👋 Hi, I’m akshata ck, a passinate Software testing.
+👋 Hi, I’m Akshata CK, a passinate Software Tester.
 
 👀 I’m interested in solving problems, learning different technologies and teckstacks.
 
-🌱 I’m currently learning best Frameworks practices and  software testing :)
+🌱 I’m currently learning best Frameworks practices and Software Testing :)
 
 ✨ I am continually inspired by the limitless potential of software testing to bring ideas to life.
 
